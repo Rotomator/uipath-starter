@@ -1,0 +1,14 @@
+{
+  "name": "1-1-4 stoplight",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6639.27383",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
