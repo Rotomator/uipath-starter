@@ -1,0 +1,14 @@
+{
+  "name": "1-3-2 uidemo",
+  "description": "Demonstrating the REFramework with UiDemo",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.3.7",
+  "projectVersion": "1.0.6669.22728",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
